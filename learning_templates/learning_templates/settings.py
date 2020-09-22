@@ -26,7 +26,7 @@ SECRET_KEY = '$)m0y-uous%=-=bu!l7=20f-ne-604si&xe@*wv9asn_2($3h4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://jacksonwood1.pythonanywhere.com/']
 
 
 # Application definition
